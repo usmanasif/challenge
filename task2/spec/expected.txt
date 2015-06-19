@@ -1,0 +1,40 @@
+Due: 12:01
+Destination: London Paddington
+Status: On time
+Platform: 9.75
+
+Due: 12:07
+Destination: London Paddington
+Status: On time
+Platform: Unknown
+
+Due: 12:31
+Destination: London Paddington
+Status: On time
+Platform: Unknown
+
+Due: 12:37
+Destination: Ealing Broadway
+Status: On time
+Platform: Unknown
+
+Due: 13:01
+Destination: London Paddington
+Status: Starts here
+Platform: Unknown
+
+Due: 13:07
+Destination: Ealing Broadway
+Status: On time
+Platform: Unknown
+
+Due: 13:31
+Destination: London Paddington
+Status: On time
+Platform: Unknown
+
+Due: 13:37
+Destination: Ealing Broadway
+Status: On time
+Platform: Unknown
+
